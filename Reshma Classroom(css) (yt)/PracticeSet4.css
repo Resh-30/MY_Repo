@@ -1,0 +1,38 @@
+.contentbox {
+    height: 100px;
+    width: 100px;
+    border: 2px  solid black;
+    display: inline-block;
+}
+
+footer {
+    background-color: #0f1111;
+    color: white;
+    text-align: center;
+}
+
+#content{
+    height: 550px;
+}
+
+#navbar {
+    height: 60px;
+    background-color: #0f1111; 
+ 
+  } 
+ 
+  a {
+    color: white;
+    margin-right: 200px;
+    text-decoration: none;
+  }
+
+
+#amazonid {
+    background-color: #f08804;
+  }
+ 
+  #logo {
+    color: #f08804;
+    font-size: 25px;
+  }

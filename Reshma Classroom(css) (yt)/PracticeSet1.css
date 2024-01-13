@@ -1,0 +1,73 @@
+#box {
+    background-color: blue;
+}
+
+.heading {
+color: red;
+ }
+/*
+ h1,h2,h3 {
+    color:red ;
+}
+( selectors can be worked with comma   )
+( one property can be applied to multiple elements  )
+ */
+
+ #myid {
+    background-color: green;
+ }
+
+ #main {
+    text-transform: capitalize;
+    text-align: center;
+ }
+
+ /*
+ body {
+    font-family: 'Times New Roman';
+      }
+ */
+
+ * {
+    font-family: 'Times New Roman';
+ }
+
+ #outer {
+    font-size: 25px;
+ }
+
+ #inner {
+    font-size: 10px;
+
+ }
+
+ #margine {
+   width: 100px;
+   height: 100px;
+   background-color: green;
+   border-radius: 50%;
+ }
+
+
+ #navbar {
+   height: 60px;
+   background-color: #0f1111; 
+
+ } 
+
+ a {
+   color: white;
+   margin-right: 200px;
+   text-decoration: none;
+ }
+
+ #amazonid {
+   background-color: #f08804;
+ }
+
+ #logo {
+   color: #f08804;
+   font-size: 25px;
+ }
+
+ 
